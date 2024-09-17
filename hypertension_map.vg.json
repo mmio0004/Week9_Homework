@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Prevalence of Hypertension in Men (30-79 years old) Globally - 2019",
+    "text": "Prevalence Rate of Hypertension in Men (30-79 years old) Globally - 2019",
     "color": "#092215",
     "fontSize": 18
   },
@@ -52,7 +52,7 @@
       "encoding": {
         "color": {
           "field": "Prevalence of hypertension among adults aged 30-79 years, age-standardized - Sex: male",
-          "title": "Hypertension Prevalence (%)",
+          "title": "Hypertension Prevalence Rate (%)",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -64,7 +64,7 @@
           {
             "field": "Prevalence of hypertension among adults aged 30-79 years, age-standardized - Sex: male",
             "type": "quantitative",
-            "title": "Hypertension Prevalence (%)"
+            "title": "Hypertension Prevalence Rate (%)"
           }
         ]
       }
