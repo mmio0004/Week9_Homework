@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Prevalence of Hypertension in Men (30-79 years old) - 2019",
+    "text": "Prevalence of Hypertension in Men (30-79 years old) Globally - 2019",
     "color": "#092215",
     "fontSize": 18
   },
