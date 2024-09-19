@@ -7,7 +7,6 @@
   },
   "width": 800,
   "height": 400,
-  "background": "#eef4ef",
   "data": {
     "url": "https://raw.githubusercontent.com/mmio0004/W9Homework/main/ne_110m_admin_0_countries.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
